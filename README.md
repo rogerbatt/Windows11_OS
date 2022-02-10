@@ -10,3 +10,6 @@ Você pode verificar a demo em: https://windows11os.vercel.app/
 - Todos os botões são utilizaveis.
 
 - É possível mexer os icones(programas) da área de trabalho.
+
+
+![imagem demonstrativa](https://i.imgur.com/wSwyZvY.png)
