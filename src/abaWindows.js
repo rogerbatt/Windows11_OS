@@ -59,7 +59,7 @@ function Aba() {
                                     <img src={git} className='w-10' alt="Github logo" />
                                     <div className='flex flex-col items-start pl-2'>
                                         <h1 className='text-sm'>Github</h1>
-                                        <h1 className='text-xs'>Veja meus portifólio</h1>
+                                        <h1 className='text-xs'>Veja meu portfólio</h1>
                                     </div>
                                 </a>
                             </button>
@@ -90,7 +90,7 @@ function Aba() {
                                     <img src={whatsapp} className='w-10' alt="WhatsApp logo" />
                                     <div className='flex flex-col items-start pl-2 text-left'>
                                         <h1 className='text-sm'>WhatsApp</h1>
-                                        <h1 className='text-xs w-36'>Entre em contato comigo</h1>
+                                        <h1 className='text-xs w-36'>Entre em contato</h1>
                                     </div>
                                 </a>
                             </button>
